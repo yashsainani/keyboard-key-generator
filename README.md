@@ -1,6 +1,6 @@
 # Keyboard Generator with Sound
 
-[Live Preview]()
+[Live Preview](https://yashsainani.github.io/keyboard-key-generator/)
 
 ## Overview
 
